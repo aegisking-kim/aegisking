@@ -6,6 +6,7 @@ aegisking(이지스킹) 업데이트 내용
 4. 폴더 리스트 최근데이타로 activety.
 
   ====2014년 11월 13일====
+  
 6. 종목갯수 제한 추가
 
 이지스킹 사이트 http://aegisking.ipdisk.co.kr:8080/apps/gnuboard5
