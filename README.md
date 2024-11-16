@@ -10,5 +10,7 @@ V3 앱에서 앱에서 다운 받은 파일을 앱격리 시키므로 앱격리 
   
 6. 종목갯수 제한 추가 (version 1.0.0.1)
 
+7. 다운로드 파일 https://blog.naver.com/lottoier/223663440308
+
 이지스킹 사이트 http://aegisking.ipdisk.co.kr:8080/apps/gnuboard5
 
