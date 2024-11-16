@@ -7,7 +7,7 @@ aegisking(이지스킹) 업데이트 내용
 
   ====2014년 11월 13일====
   
-6. 종목갯수 제한 추가
+6. 종목갯수 제한 추가 (version 1.0.0.1)
 
 이지스킹 사이트 http://aegisking.ipdisk.co.kr:8080/apps/gnuboard5
 
