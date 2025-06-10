@@ -13,5 +13,5 @@ V3 앱에서 앱에서 다운 받은 파일을 앱격리 시키므로 앱격리 
 
 7. 다운로드 파일 https://blog.naver.com/lottoier/223663440308
 
-이지스킹 사이트 http://aegisking.ipdisk.co.kr:8080/apps/gnuboard5
+이지스킹 사이트 http://aegisking.ipdisk.co.kr:7778/apps/gnuboard5
 
